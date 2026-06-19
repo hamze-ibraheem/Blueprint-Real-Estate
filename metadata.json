@@ -1,0 +1,6 @@
+{
+  "name": "Blueprint Real Estate",
+  "description": "High-converting professional real estate website for Blueprint Real Estate and Management in Miami, FL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
