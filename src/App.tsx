@@ -7,6 +7,7 @@ import About from './components/About';
 import FAQ from './components/FAQ';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import FloatingButton from './components/FloatingButton';
 
 export default function App() {
   return (
@@ -22,6 +23,7 @@ export default function App() {
         <Contact />
       </main>
       <Footer />
+      <FloatingButton />
     </div>
   );
 }
